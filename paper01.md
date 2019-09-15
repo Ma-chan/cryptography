@@ -1,3 +1,6 @@
+name: inverse
+layout: true
+class: center, middle, inverse
 ---
 # The Bitcoin Backbone Protocol: Analysis and Applications
 ---
