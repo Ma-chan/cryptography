@@ -3,6 +3,7 @@ layout: true
 class: center, middle, inverse
 
 ---
+layout:false
 # The Bitcoin Backbone Protocol: Analysis and Applications
 ---
 
