@@ -1,8 +1,10 @@
 #テーマの設定
 theme : sky
 
-#ロゴ
-logo : favicon.pdf
+theme-headline   : [ "Raleway", "#5289F7", "none" ]
+theme-margins    : [ "0", "15px" ]
+theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-override: assets/css/PITCHME.css
 
 #スライドのページ数表示の設定
 slide-number: true
@@ -10,6 +12,8 @@ slide-number: true
 #コードのシンタックスハイライトの設定
 highlight : monokai
 
+#スライドのページ数表示の設定
+slide-number: true
 
 #スライドのループ設定
 loop : true
@@ -17,3 +21,4 @@ loop : true
 
 #トランジションの設定
 transition : fade
+title : "My presentation"
