@@ -56,16 +56,16 @@
 
 #### Network
 
-* ネットワークが動く仕組み
+* ネットワークが動く仕組み<br />
 
-1) すべてのノードに新しいトランザクションが広められる
-2) 互いのノードがブロックの中に新しいトランザクションを集める
-3) 互いのノードがブロックの中の異なるPoWを見つ
-4) ノードがPoWを見つけた場合、全てのノードにブロックを広める
-5) PoWが全てのトランザクションに
+1) すべてのノードに新しいトランザクションが広められる<br />
+2) 互いのノードがブロックの中に新しいトランザクションを集める<br />
+3) 互いのノードがブロックの中の異なるPoWを見つ<br />
+4) ノードがPoWを見つけた場合、全てのノードにブロックを広める<br />
+5) PoWが全てのトランザクションに<br />
 
 ---
 
 #### References
 
-<br />[1] 2008 Satoshi Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System"<br />[2] Roger Wattenhofer, "Blockchain Science: Distributed Ledger Technology" 
+<br />[1] 2008 Satoshi Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System"<br />[2] Roger Wattenhofer, "Blockchain Science: Distributed Ledger Technology" <br />
