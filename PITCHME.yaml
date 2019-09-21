@@ -1,7 +1,8 @@
 #テーマの設定
 theme : sky
 
-
+#ロゴ
+logo : favicon.pdf
 
 #スライドのページ数表示の設定
 slide-number: true
