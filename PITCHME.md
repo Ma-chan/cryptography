@@ -55,3 +55,9 @@
 3) 互いのノードがブロックの中の異なるPoWを見つ
 4) ノードがPoWを見つけた場合、全てのノードにブロックを広める
 5) PoWが全てのトランザクションに
+
+---
+
+#### References
+
+[1] 2008 Satoshi Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System"
