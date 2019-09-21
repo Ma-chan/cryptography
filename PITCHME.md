@@ -12,7 +12,8 @@
 
 * Bitcoinは第三者を介さずに取引を可能とした技術である
 * 二重支払問題をP2Pを用いて解決している
-* 
+* PoWにより、
+  *  PoW: 1CPU1票の多数決によってブロックチェーンの意思決定をする仕組み
 
 ---
 
@@ -26,7 +27,7 @@
 * 複数の管理者が取引を複製管理するP2Pによって、二重支払を防止している
 
 ---
-図1 トランザクションの連結
+図1 Bitcoinの構造
 <img src="ts.png" alt="トランザクション">
 
 ---
@@ -38,7 +39,7 @@
 * ブロック更新前に、前のタイムスタンプに更新分が加えられ、強化される。
 
 ---
-図　タイムスタンプの仕組み
+図2　タイムスタンプの仕組み
 <img src="bl.png" alt="ブロックチェーン">
 
 ---
@@ -67,5 +68,4 @@
 
 #### References
 
-<br />[1] 2008 Satoshi Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System"<br />
-[2] Roger Wattenhofer, "Blockchain Science: Distributed Ledger Technology" <br />
+<br />[1] 2008 Satoshi Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System"<br />[2] Roger Wattenhofer, "Blockchain Science: Distributed Ledger Technology" 
