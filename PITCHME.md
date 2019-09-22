@@ -70,6 +70,13 @@
 
 ---
 
+### Blockchain
+***
+一致性(Consisitency): システムの全てのノードが同じ状態を有している
+可用性(Availability): 
+
+
+---
 ### References
 ***
 <br />[1] 2008 Satoshi Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System"<br />[2] Roger Wattenhofer, "Blockchain Science: Distributed Ledger Technology" <br />
